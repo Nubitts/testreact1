@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  /* Optional: Add custom theme values here if needed. 
+     For now, we use defaults. */
+}
+
+body {
+  @apply bg-slate-50 text-slate-900;
+}
