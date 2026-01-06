@@ -8,7 +8,7 @@
 > Solución algorítmica para la planificación automática de turnos rotativos (NxM), garantizando la cobertura operativa continua bajo restricciones estrictas de seguridad y fatiga.
 
 ## 🚀 Demo Desplegado
-👉 **[Ver Aplicación en Vivo][(https://TU_URL_DE_NETLIFY_AQUI.netlify.app)](https://evalreactest.netlify.app/)**
+👉 **[Ver Aplicación en Vivo](https://evalreactest.netlify.app/)**
 
 ## 📋 Descripción del Problema
 Una empresa minera requiere coordinar los turnos de 3 supervisores (S1, S2, S3) para asegurar que la operación de perforación nunca se detenga, cumpliendo reglas estrictas:
